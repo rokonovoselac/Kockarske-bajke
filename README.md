@@ -20,7 +20,7 @@
 -   [Trnoružica](Trnoružica.md)
 -   [Siromah i bogataš](https://lektire.skole.hr/stranica/siromah-i-bogatas/)
 -   [Kralj Bradonja](https://lektire.skole.hr/stranica/kralj-bradonja/)
--   [Doktor Sveznalica](Doktor Sveznalica.md)
+-   [Doktor Sveznalica](Doktor--Sveznalica.md)
 -   [Snjeguljica](Snjeguljica.md)
 -   [Mudri ljudi](https://lektire.skole.hr/stranica/mudri-ljudi/)
 -   [Braco i seka](https://lektire.skole.hr/stranica/braco-i-seka/)
