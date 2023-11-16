@@ -13,7 +13,7 @@
 -   [Pas i vrabac](https://lektire.skole.hr/stranica/pas-i-vrabac/)
 -   [Pepeljuga](https://lektire.skole.hr/stranica/pepeljuga-2/)
 -   [Mirko i Milka](https://lektire.skole.hr/stranica/mirko-i-milka/)
--   [Crvenkapica](https://lektire.skole.hr/stranica/crvenkapica/)
+-   [Crvenkapica](Crvenkapica.md)
 -   [Sedam gavrana](https://lektire.skole.hr/stranica/sedam-gavrana/)
 -   [Bremenski gradski svirači](https://lektire.skole.hr/stranica/bremenski-gradski-sviraci/)
 -   [Mudra seljanka](https://lektire.skole.hr/stranica/mudra-seljanka/)
