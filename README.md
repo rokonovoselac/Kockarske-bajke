@@ -14,7 +14,7 @@
 -   [Pepeljuga](https://lektire.skole.hr/stranica/pepeljuga-2/)
 -   [Mirko i Milka](https://lektire.skole.hr/stranica/mirko-i-milka/)
 -   [Crvenkapica](Crvenkapica.md)
--   [Sedam gavrana](https://lektire.skole.hr/stranica/sedam-gavrana/)
+-   [Sedam gavrana](Sedam-gavrana.md)
 -   [Bremenski gradski svirači](https://lektire.skole.hr/stranica/bremenski-gradski-sviraci/)
 -   [Mudra seljanka](https://lektire.skole.hr/stranica/mudra-seljanka/)
 -   [Trnoružica](Trnoružica.md)
