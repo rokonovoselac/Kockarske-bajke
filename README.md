@@ -4,7 +4,7 @@
 -   [Priča o čovjeku koji je htio da nauči strahovati](https://lektire.skole.hr/stranica/prica-o-covjeku-koji-je-htio-da-nauci-strahovati/)
 -   [Palčić](https://lektire.skole.hr/stranica/palcic/)
 -   [Vuk i sedmoro jaradi](Vuk-i-sedmoro-jaradi.md)
--   [Tri čovječuljka u šumi](https://lektire.skole.hr/stranica/tri-covjeculjka-u-sumi/)
+-   [Tri čovječuljka u šumi](Tri-čovječuljka-u-šumi.md)
 -   [Vjerni Ivan](Vjerni-Ivan.md)
 -   [Nahod-ptica](Nahod-ptica.md)
 -   [Dvanaestorica braće](https://lektire.skole.hr/stranica/dvanaestorica-brace/)
