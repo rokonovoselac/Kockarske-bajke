@@ -17,7 +17,7 @@
 -   [Sedam gavrana](https://lektire.skole.hr/stranica/sedam-gavrana/)
 -   [Bremenski gradski svirači](https://lektire.skole.hr/stranica/bremenski-gradski-sviraci/)
 -   [Mudra seljanka](https://lektire.skole.hr/stranica/mudra-seljanka/)
--   [Trnoružica](https://lektire.skole.hr/stranica/trnoruzica/)
+-   [Trnoružica](Trnoružica.md)
 -   [Siromah i bogataš](https://lektire.skole.hr/stranica/siromah-i-bogatas/)
 -   [Kralj Bradonja](https://lektire.skole.hr/stranica/kralj-bradonja/)
 -   [Doktor Sveznalica](https://lektire.skole.hr/stranica/doktor-sveznalica/)
