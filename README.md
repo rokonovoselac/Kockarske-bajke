@@ -3,7 +3,7 @@
 -   [Klatež]()
 -   [Priča o čovjeku koji je htio da nauči strahovati](https://lektire.skole.hr/stranica/prica-o-covjeku-koji-je-htio-da-nauci-strahovati/)
 -   [Palčić](https://lektire.skole.hr/stranica/palcic/)
--   [Vuk i sedmoro jaradi](https://lektire.skole.hr/stranica/vuk-i-sedmoro-jaradi/)
+-   [Vuk i sedmoro jaradi](Vuk-i-sedmoro-jaradi.md)
 -   [Tri čovječuljka u šumi](https://lektire.skole.hr/stranica/tri-covjeculjka-u-sumi/)
 -   [Vjerni Ivan](https://lektire.skole.hr/stranica/vjerni-ivan/)
 -   [Nahod-ptica](Nahod-ptica.md)
