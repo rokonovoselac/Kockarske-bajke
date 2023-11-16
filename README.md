@@ -6,7 +6,7 @@
 -   [Vuk i sedmoro jaradi](https://lektire.skole.hr/stranica/vuk-i-sedmoro-jaradi/)
 -   [Tri čovječuljka u šumi](https://lektire.skole.hr/stranica/tri-covjeculjka-u-sumi/)
 -   [Vjerni Ivan](https://lektire.skole.hr/stranica/vjerni-ivan/)
--   [Nahod-ptica](https://lektire.skole.hr/stranica/nahod-ptica/)
+-   [Nahod-ptica](Nahod-ptica.md)
 -   [Dvanaestorica braće](https://lektire.skole.hr/stranica/dvanaestorica-brace/)
 -   [Mudra Jelka](https://lektire.skole.hr/stranica/mudra-jelka/)
 -   [Šestorica obilaze svijetom](Šestorica-obilaze-svijetom.md)
