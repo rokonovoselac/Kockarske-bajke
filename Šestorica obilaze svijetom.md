@@ -3,7 +3,6 @@ created: 2023-11-16T17:06:53 (UTC +01:00)
 tags: []
 source: https://lektire.skole.hr/stranica/sestorica-obilaze-svijetom/
 author: 
----
 Bio neki čovjek, koji je umio svašta; služio u ratu valjano i hrabro, no kad je rat svršio, otpustili ga davši mu tri filira popudbine.
 
 »Čekaj, nećemo baš tako. Nađem li pravih ljudi, dat će mi kralj blago čitave zemlje«, razljuti se ratnik i pođe u šumu, gdje nađe nekoga čovjeka, koji je iščupao šest stabala, kao da su žitne slamke.
