@@ -9,7 +9,7 @@
 -   [Nahod-ptica](https://lektire.skole.hr/stranica/nahod-ptica/)
 -   [Dvanaestorica braće](https://lektire.skole.hr/stranica/dvanaestorica-brace/)
 -   [Mudra Jelka](https://lektire.skole.hr/stranica/mudra-jelka/)
--   [Šestorica obilaze svijetom](Šestorica obilaze svijetom.md)
+-   [Šestorica obilaze svijetom](Šestorica-obilaze-svijetom.md)
 -   [Pas i vrabac](https://lektire.skole.hr/stranica/pas-i-vrabac/)
 -   [Pepeljuga](https://lektire.skole.hr/stranica/pepeljuga-2/)
 -   [Mirko i Milka](https://lektire.skole.hr/stranica/mirko-i-milka/)
