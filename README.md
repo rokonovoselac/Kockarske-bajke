@@ -23,7 +23,7 @@
 -   [Doktor Sveznalica](Doktor--Sveznalica.md)
 -   [Snjeguljica](Snjeguljica.md)
 -   [Mudri ljudi](Mudri-ljudi.md)
--   [Braco i seka](https://lektire.skole.hr/stranica/braco-i-seka/)
+-   [Braco i seka](Braco-i-seka.md)
 -   [Siromašni mlinarski momčić i maca](Siromašni-mlinarski-momčić-i-maca.md)
 -   [Sretni Ivo](Sretni-Ivo.md)
 -   [Bajke](Bajke.md)
