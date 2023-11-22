@@ -8,7 +8,7 @@
 -   [Vjerni Ivan](Vjerni-Ivan.md)
 -   [Nahod-ptica](Nahod-ptica.md)
 -   [Dvanaestorica braće](Dvanaestorica-braće.md)
--   [Mudra Jelka](Mudra-Jelka)
+-   [Mudra Jelka](Mudra-Jelka.md)
 -   [Šestorica obilaze svijetom](Šestorica-obilaze-svijetom.md)
 -   [Pas i vrabac](Pas-i-vrabac.md)
 -   [Pepeljuga](Pepeljuga.md)
