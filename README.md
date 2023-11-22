@@ -12,7 +12,7 @@
 -   [Šestorica obilaze svijetom](Šestorica-obilaze-svijetom.md)
 -   [Pas i vrabac](Pas-i-vrabac.md)
 -   [Pepeljuga](Pepeljuga.md)
--   [Mirko i Milka](Mirko-i-Milka)
+-   [Mirko i Milka](Mirko-i-Milka.md)
 -   [Crvenkapica](Crvenkapica.md)
 -   [Sedam gavrana](Sedam-gavrana.md)
 -   [Bremenski gradski svirači](Bremenski-gradski-svirači.md)
