@@ -1,6 +1,6 @@
 # Kockarske-bajke
 -   [Ukleti Kraljević i Čelik-Henrik](Ukleti-Kraljević-i-Čelik-Henrik.md)
--   [Klatež]()
+-   [Klatež](Klatež.md)
 -   [Priča o čovjeku koji je htio da nauči strahovati](Priča-o-čovjeku-koji-je-htio-da-nauči-strahovati.md)
 -   [Palčić](Palčić.md)
 -   [Vuk i sedmoro jaradi](Vuk-i-sedmoro-jaradi.md)
