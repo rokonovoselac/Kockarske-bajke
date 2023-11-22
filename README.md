@@ -16,7 +16,7 @@
 -   [Crvenkapica](Crvenkapica.md)
 -   [Sedam gavrana](Sedam-gavrana.md)
 -   [Bremenski gradski svirači](Bremenski-gradski-svirači.md)
--   [Mudra seljanka](https://lektire.skole.hr/stranica/mudra-seljanka/)
+-   [Mudra seljanka](Mudra-seljanka.md)
 -   [Trnoružica](Trnoružica.md)
 -   [Siromah i bogataš](Siromah-i-bogataš.md)
 -   [Kralj Bradonja](Kralj-Bradonja.md)
